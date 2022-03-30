@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 912fc084-9e83-2bfd-38af-df58a71a8917
 resourcetype: Image
 title: MITRES_3_004F17_32_bingg-th.jpg
 uid: e183bc9d-c184-9462-4098-f4120dc18b20

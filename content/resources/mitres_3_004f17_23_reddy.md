@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 912fc084-9e83-2bfd-38af-df58a71a8917
 resourcetype: Image
 title: MITRES_3_004F17_23_reddy.jpg
 uid: 04ce4e69-c82c-31b4-bab4-82220f7fd90b

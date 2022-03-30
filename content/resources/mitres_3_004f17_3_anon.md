@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 912fc084-9e83-2bfd-38af-df58a71a8917
 resourcetype: Image
 title: MITRES_3_004F17_3_anon.jpg
 uid: 9562e17d-81e8-c1e5-6b37-45954fcb4dfe

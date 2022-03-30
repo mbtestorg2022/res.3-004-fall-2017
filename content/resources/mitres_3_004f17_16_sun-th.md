@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 912fc084-9e83-2bfd-38af-df58a71a8917
 resourcetype: Image
 title: MITRES_3_004F17_16_sun-th.jpg
 uid: 63bd991c-82d7-3fb0-6d7e-cd9fc983c5ce

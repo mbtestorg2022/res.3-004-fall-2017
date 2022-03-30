@@ -3,6 +3,7 @@ content_type: resource
 description: ''
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/res-3-004-visualizing-materials-science-fall-2017/770886eb85495b367912cfb70e5d0fc0_2017EPFL_anon3.nb
 file_type: application/mathematica
+parent_uid: 912fc084-9e83-2bfd-38af-df58a71a8917
 resourcetype: Other
 title: 2017EPFL_anon3.nb
 uid: 770886eb-8549-5b36-7912-cfb70e5d0fc0

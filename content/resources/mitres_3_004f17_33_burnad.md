@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 912fc084-9e83-2bfd-38af-df58a71a8917
 resourcetype: Image
 title: MITRES_3_004F17_33_burnad.jpg
 uid: 1fcc1b08-20f2-d855-b1b5-46953f9b5c8d
